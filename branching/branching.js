@@ -1,4 +1,3 @@
 console.log('branching');
-console.log('Version3.1');
-console.log('Creating merge conflict');
-
+console.log('Version3.2');
+console.log('bugfix');
