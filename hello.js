@@ -1,2 +1,2 @@
-console.log('This is a merge conflict');
+console.log('This is a merge conflict too');
 
